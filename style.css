@@ -36,3 +36,14 @@ img {
 h2 {
   color: var(--colorGreen);
 }
+
+a {
+  color: var(--colorWhite);
+  display: block;
+  background-color: var(--colorGrey);
+}
+
+a:hover {
+  color: var(--colorGrey);
+  background-color: var(--colorGreen);
+}
