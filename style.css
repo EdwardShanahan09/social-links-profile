@@ -23,3 +23,8 @@
 body {
   background-color: var(--colorBlack);
 }
+
+.card {
+  color: var(--colorWhite);
+  background-color: var(--colorDarkGrey);
+}
