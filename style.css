@@ -28,3 +28,7 @@ body {
   color: var(--colorWhite);
   background-color: var(--colorDarkGrey);
 }
+
+img {
+  width: 88px;
+}
